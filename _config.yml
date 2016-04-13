@@ -1,0 +1,28 @@
+name: Bill Myers Ministry
+favicon: null
+layout_spectrum: 0.7467179771047086
+typography_spectrum: 0.3019533306360245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2001942137721926
+  lightness: 0.3294442859478295
+  saturation: 0.8087924879509956
+  rhythmicContrast: 0.6124518415890634
+purpose: []
